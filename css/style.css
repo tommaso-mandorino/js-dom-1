@@ -1,0 +1,25 @@
+body {
+    
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: black;
+
+    button {
+
+        width: 10rem;
+        height: 10rem;
+
+        font-size: 1.5rem;
+
+        border-radius: 50%;
+
+        cursor: pointer;
+
+        background-color: aqua;
+
+    }
+}
